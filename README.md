@@ -37,5 +37,5 @@ To get started with this project, follow these steps:
 Clone the project
 
 ```bash
-  git clone https://github.com/imdesai00/ASPDOTNET-CORE-WEB-API.git
+  git clone [https://github.com/imdesai00/Forgot-password-functionality.git]
 
